@@ -1,4 +1,4 @@
 # Built a New World
 I am gonna built an ai that can build a new world
 
-### This a new heading
+### This project will be starting soon
