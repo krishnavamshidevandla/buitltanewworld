@@ -1,4 +1,4 @@
-# Built a New World
-I am gonna built an ai that can build a new world
+# Railway delivery App
+This app allows you to order food while you are travelling in train.
 
 ### This project will be starting soon
